@@ -2,6 +2,7 @@
 
 A human skin shader, that I created in Unity 2021.3.9f1 using HLSL. 
 Concepts used include the Blinn-Phong reflection model, normal mapping and translucency.
+The project was done in collaboration with Frederik Hald Stappert - he found the research papers and mathematical formulas that we needed and I programmed and implemented the shader.
 
 ## Front and back view of the shader
 
@@ -11,5 +12,3 @@ Concepts used include the Blinn-Phong reflection model, normal mapping and trans
 ## Default and recommended settings for the shader
 
 ![SETTINGS_SkinShader](https://github.com/user-attachments/assets/9b4b561f-216a-4d19-a4fa-23ec33508d9c)
-
-The project was done in collaboration with Frederik Hald Stappert - he found the research papers and mathematical formulas that we needed and I programmed and implemented the shader.
