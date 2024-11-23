@@ -1,6 +1,10 @@
 # Human Skin Shader
 
-A Unity project demonstrating a human skin shader, that I created using ShaderLab and HLSL. 
+A human skin shader, that I created in Unity 2021.3.9f1 using HLSL. 
 Conecpts used include the Blinn-Phong reflection model, normal mapping and translucency.
-All the shader code can be found in the "Human Skin.shader" file under "\CGP-Mini-Project\Human-Skin-SHADER\Assets\Bjørn\Shaders".
-Requires Unity version 2021.3.9f1 to run.
+
+![FRONT_SkinShader](https://github.com/user-attachments/assets/63567bc5-de0e-4f51-9a04-31398b3caad3)
+![BACK_SkinShader](https://github.com/user-attachments/assets/95f0e35b-fba9-4faf-abef-d1eb668fc7b9)
+![SETTINGS_SkinShader](https://github.com/user-attachments/assets/9b4b561f-216a-4d19-a4fa-23ec33508d9c)
+
+The project was done in collaboration with Frederik Hald Stappert - he found the research papers and mathematical formulas that we needed and I programmed and implemented the shader.
