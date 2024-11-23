@@ -19,7 +19,7 @@ The project was done in collaboration with Frederik Hald Stappert - he found the
 ### 1) Blinn-Phong Reflection model formula
 
 ![BlinnPhong](https://github.com/user-attachments/assets/ca53b27b-c458-4d96-8fa9-8e8ebcbcc710)
-![BlinnPhong_FORMULA](https://github.com/user-attachments/assets/864cefd6-d8a9-4ff3-b14f-e3cc793a9771)
+![BlinnPhong_FORMULA_correct](https://github.com/user-attachments/assets/4b45f606-5a02-4b63-9f99-7cd0ba00458d)
 
 ### 2) Normal map calculation formula
 
