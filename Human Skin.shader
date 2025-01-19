@@ -160,7 +160,7 @@ Properties
 
                 //Combining
                 float4 blinnPhong = colors * (_AmbientColor + light + specular + rim); //combines the elements that make blinn-phong
-                float4 combined = blinnPhong + diffuseTranslucencyFinal + forwardTranslucencyFinal; //multiplies blinn-phong with both types of translucency
+                float4 combined = blinnPhong + diffuseTranslucencyFinal + forwardTranslucencyFinal; //adds blinn-phong to both types of translucency
 				return combined; //makes the final output from the fragment shader
 			}
 			ENDCG
