@@ -63,7 +63,7 @@ Properties
                 mul(modelMatrix, float4(v.tangent.xyz, 0.0)).xyz); //we transform the tangent to world space by multiplying tangent vector with the modelMatrix
 
                 o.normalWorld = normalize(
-                mul(float4(v.normal, 0.0), modelMatrixInverse).xyz); //we transform the normal to world space by multiplying normal vector with the transpoe of the inverse modelMatrix. 
+                mul(float4(v.normal, 0.0), modelMatrixInverse).xyz); //we transform the normal to world space by multiplying normal vector with the transpose of the inverse modelMatrix. 
                 //We do this because the lights direction is provided in world space.
                 
                 //z = normal, x = tangent, y = binormal
